@@ -1,2 +1,4 @@
 #!/bin/bash
-chown hello vincent if user=guillaume
+if ["user" = "guillaume"]
+then chown vincent hello
+    
