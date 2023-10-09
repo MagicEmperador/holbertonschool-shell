@@ -1,4 +1,2 @@
 #!/bin/bash
-if ["user" = "guillaume"]
-then chown vincent hello
-    
+chmod --from=guillaume vincent hello
