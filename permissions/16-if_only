@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=guillaume chown vincent hello
+chown hello vincent if user=guillaume
