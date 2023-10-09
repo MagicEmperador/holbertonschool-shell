@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello only if user=guillaume
+chmod u=guillaume chown vincent hello
