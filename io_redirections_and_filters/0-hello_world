@@ -1,3 +1,2 @@
-total 4
--rwxr--r-- 1 root root  0 Oct 10 01:25 0-hello_world
--rw-r--r-- 1 root root 19 Oct 10 00:49 README.md
+#!/bin/bash
+echo -e "Hello, World\n"
